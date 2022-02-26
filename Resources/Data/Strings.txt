@@ -1,0 +1,26 @@
+@ GAME_JAM_INTRO Created for Weekly Game Jam #6
+@ COMBAT_HEADER_TEXT Give your unit an order!
+@ COMBAT_TYPE_1 Be aggressive!
+@ COMBAT_TYPE_2 Conserve mana!
+@ COMBAT_TYPE_3 Use items!
+@ COMBAT_TYPE_4 Do your thing!
+@ AFTER_BATTLE_BUTTON Return to map
+@ PARTY_GEN_HEADER Roll your party!
+@ ACCEPT_PARTY Okay!
+@ REROLL_PARTY Reroll!
+@ STAGE_SELECT_HEADER Select a stage!
+@ STAGE_NAME_1 Stage 1: Training Ground
+@ STAGE_NAME_2 Stage 2: The Bridge
+@ STAGE_NAME_3 Stage 3: Mountain Heights
+@ BACK_BUTTON_TEXT Back
+@ MAIN_MENU_HEADER Make a selection!
+@ MAIN_MENU_STAGE_SELECT Select a Stage
+@ MAIN_MENU_QUIT Quit Game
+@ MAIN_MENU_SHOP Purchase Items
+@ MAIN_MENU_INVENTORY View Inventory
+@ MAIN_MENU_PARTY Adjust Your Party
+@ END_TURN End Turn
+@ PARTY_ORDER_HEADER Adjust your party!
+@ SHOP_HEADER Purchase an item!
+@ INVENTORY_HEADER Check out your items!
+@ 
